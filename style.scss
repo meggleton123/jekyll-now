@@ -17,8 +17,12 @@ html {
   font-size: 100%;
 }
 
+body { 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
+
 body {
-	background: "https://media.giphy.com/media/lQuPA4tZ79fNu/giphy.gif";
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
