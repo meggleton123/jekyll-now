@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #00ff00 url("https://media.giphy.com/media/lQuPA4tZ79fNu/giphy.gif") no-repeat fixed center; 
+	background: ("https://media.giphy.com/media/lQuPA4tZ79fNu/giphy.gif") ; 
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
