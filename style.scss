@@ -157,11 +157,11 @@ img {
   position: fixed;
   width: 100%;
   top: 0;
+  box-shadow: 1px 1px 30px rgba(0, 0,0, 0.8);
 }
 
 .masthead {
   padding: 20px 0;
-  box-shadow: 1px 1px 30px rgba(0, 0,0, 0.8);
 
   @include mobile {
     text-align: center;
