@@ -18,7 +18,11 @@ html {
 }
 
 body {
-	background: https://media.giphy.com/media/lQuPA4tZ79fNu/giphy.gif;
+    background-color: yellow;
+}
+
+body {
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
