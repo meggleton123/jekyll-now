@@ -21,7 +21,7 @@ body {
   background-color: #e5e5e5; 
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  margin-top: 100px;
+  margin-top: 120px;
 }
 
 .container {
@@ -161,7 +161,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #ffffff;
+  box-shadow: 1px 1px 30px rgba(0, 0,0, 0.8);
 
   @include mobile {
     text-align: center;
