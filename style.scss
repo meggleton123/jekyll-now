@@ -19,7 +19,8 @@ html {
 
 body {
   background-color: #e5e5e5; 
-  font: 18px/1.4 $helvetica;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
   color: $darkGray;
   margin-top: 140px;
 }
@@ -32,9 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -63,13 +62,16 @@ h3 {
 h4 {
   font-size: 18px;
   color: $gray;
+  font-family: 'Raleway', sans-serif;
 }
 
 p {
   margin: 15px 0;
+  font-family: 'Raleway', sans-serif;
 }
 
 a {
+  font-family: 'Raleway', sans-serif;
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
